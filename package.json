@@ -3,6 +3,10 @@
 	"version": "0.1.0",
 	"private": true,
 	"author": "Nazmul Hassan",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nazmul-nhb/crown-commerce.git"
+	},
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
